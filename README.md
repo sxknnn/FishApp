@@ -16,4 +16,11 @@ Application for Senior Design
 
 ## Instructions on running the app:
 
-- I'll update soon
+To run your project, navigate to the directory and run one of the following yarn commands.
+
+- cd fishapp
+  -npm start/ npm run web
+
+## Packages to be installed:
+
+- npx expo install react-dom react-native-web
