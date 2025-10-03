@@ -19,7 +19,10 @@ Application for Senior Design
 To run your project, navigate to the directory and run one of the following yarn commands.
 
 - cd fishapp
-  -npm start/ npm run web
+  - npm install expo
+  - npx expo start
+    - press A to run on Android (need to have Android Studio and an emulator installed)
+
 
 ## Packages to be installed:
 
