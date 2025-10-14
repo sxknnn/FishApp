@@ -7,5 +7,6 @@ export default{
     BLACK: '#000',
     // New color for the background area revealed by the curve
     BACKGROUND_ACCENT: '#2bb1ffff', 
-    bg: '#877dfa',
+    bg: '#796dfaff',
+   
 }
