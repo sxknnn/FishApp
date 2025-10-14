@@ -12,6 +12,8 @@ Application for Senior Design
 
 ## Project Reasoning
 
+-Using machine learning and computer vision to detect fish types and size.
+
 ## Project Overview
 
 ## Instructions on running the app:
@@ -22,7 +24,6 @@ To run your project, navigate to the directory and run one of the following yarn
   - npm install expo
   - npx expo start
     - press A to run on Android (need to have Android Studio and an emulator installed)
-
 
 ## Packages to be installed:
 
